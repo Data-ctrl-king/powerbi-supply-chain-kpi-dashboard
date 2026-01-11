@@ -1,6 +1,6 @@
 # 📦 Supply Chain KPI Dashboard — Power BI
 
-This dashboard tracks supply chain performance across cost, delivery efficiency, and labor productivity to support decision-making in logistics operations.
+I built this dashboard tracks supply chain performance across cost, delivery efficiency, and labor productivity to support decision-making in logistics operations.
 
 ---
 
